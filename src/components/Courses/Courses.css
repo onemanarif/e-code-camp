@@ -1,0 +1,16 @@
+.courseStyle{
+    display: inline-flex;
+    margin: 20px 50px 30px 50px;
+   
+    
+}
+.enrollbtn{
+    margin-left: auto;
+}
+
+.imgstyle{
+    padding: 0px 10px 10px 15px;
+    height: 200px;
+    border-radius: 15%;
+    
+}
